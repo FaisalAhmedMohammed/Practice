@@ -17,7 +17,7 @@ public class Application {
 		 int c = 30;
 		 System.out.println(b)
 		 boolean isSaved=false;
-		 boolean isUpdated = tru;
+		 boolean isUpdated = true;
 	     double d = 20.0;
 		 String str = "allen"; 
 
