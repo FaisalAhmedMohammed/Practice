@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
 
 	public static void main(String[] args) {
+		System.out.println("Git Conflict");
 
 		int a = 10;
 
@@ -20,7 +21,7 @@ public class Application {
 
 		 boolean isSaved=false;
 		 boolean isUpdated = true;
-		 
+
 	     double d = 20.0;
 		 String str = "allen"; 
 
