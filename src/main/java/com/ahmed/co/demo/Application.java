@@ -16,7 +16,11 @@ public class Application {
 
 		 int c = 30;
 		 System.out.println(b);
-		 String str = "allen";
+
+		double d = 20.0;
+		 
+		 String str = "allen"; 
+
 	}
 
 }
