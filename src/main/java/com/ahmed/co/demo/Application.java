@@ -16,6 +16,7 @@ public class Application {
 
 		 int c = 30;
 		 System.out.println(b);
+		double d = 20.0;
 	}
 
 }
