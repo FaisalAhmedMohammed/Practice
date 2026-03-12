@@ -16,6 +16,7 @@ public class Application {
 
 		 int c = 30;
 		 System.out.println(b);
+		 String str = "allen";
 	}
 
 }
