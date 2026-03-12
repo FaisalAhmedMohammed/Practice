@@ -15,10 +15,10 @@ public class Application {
 	     int b = 20;
 
 		 int c = 30;
-		 System.out.println(b);
-
-		double d = 20.0;
-		 
+		 System.out.println(b)
+		 boolean isSaved=false;
+		 boolean isUpdated = tru;
+	     double d = 20.0;
 		 String str = "allen"; 
 
 	}
