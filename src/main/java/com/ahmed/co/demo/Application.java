@@ -15,11 +15,15 @@ public class Application {
 	     int b = 20;
 
 		 int c = 30;
-		 System.out.println(b);
-		char gender = 'M';
-		int age = 20;
-		double d = 20.0;
-		String str = "allen"; 
+
+		 System.out.println(b)
+
+		 boolean isSaved=false;
+		 boolean isUpdated = true;
+		 
+	     double d = 20.0;
+		 String str = "allen"; 
+
 
 	}
 
