@@ -16,10 +16,10 @@ public class Application {
 
 		 int c = 30;
 		 System.out.println(b);
-
+		char gender = 'M';
+		int age = 20;
 		double d = 20.0;
-		 
-		 String str = "allen"; 
+		String str = "allen"; 
 
 	}
 
